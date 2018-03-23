@@ -7,11 +7,16 @@ npm install
 Install all dependencies
 
 ```
-$ node bundle_size.shell.js -i
+node bundle_size.shell.js -i
+```
+
+Run build
+
+```
+node bundle_size.shell.js -b | grep "main"
 ```
 
 ```
-
  ==== main (1.0_bundle_size_only_react) ===
 
 main-d14e0f46b9ac60c61422.bundle.js   97.4 KiB       0  [emitted]  main

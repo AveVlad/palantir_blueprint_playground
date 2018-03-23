@@ -7,4 +7,3 @@ const container = document.getElementById('app-container');
 
 ReactDOM.render((<div><Button>123</Button></div>), container);
 
-
