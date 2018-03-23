@@ -1,11 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { FocusStyleManager } from '@blueprintjs/core';
+import { Button } from '@blueprintjs/core';
 
-FocusStyleManager.onlyShowFocusOnTabs();
 
 const container = document.getElementById('app-container');
 
-ReactDOM.render((<div>Hello blueprint</div>), container);
+ReactDOM.render((<div><Button>123</Button></div>), container);
 
 
