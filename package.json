@@ -1,0 +1,20 @@
+{
+  "name": "palantir_blueprint_playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install_all_dependencies": "cd 1.0_bundle_size_only_react && npm i && cd .. && cd 1.1_bundle_size_react_and_blueprint_1 && npm i && cd .. && cd 1.2_bundle_size_react_and_blueprint_2 && npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AveVlad/palantir_blueprint_playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AveVlad/palantir_blueprint_playground/issues"
+  },
+  "homepage": "https://github.com/AveVlad/palantir_blueprint_playground#readme"
+}
