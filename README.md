@@ -43,6 +43,6 @@ Entrypoint main [big] = main-f6c698f35bee4936fee0.bundle.js
 
 ### Bundle size:
 
-| Only React | React + blueprint@1.35.7 | React + blueprint@2.0.0 |
-|------------|---------------------|---------------------|
-| 97 KiB     | 293 KiB             | 594 KiB             |
+| Only React | React + blueprint@1.35.7 | React + blueprint@2.0.0 | React + blueprint@3.12.0 |
+|------------|---------------------|---------------------|-----------------------------------|
+| 97 KiB     | 293 KiB             | 594 KiB             | 657 KiB                           |
