@@ -14,6 +14,7 @@ const list = [
     '1.0_bundle_size_only_react',
     '1.1_bundle_size_react_and_blueprint_1',
     '1.2_bundle_size_react_and_blueprint_2',
+    '1.3_bundle_size_react_and_blueprint_3',
 ];
 
 
